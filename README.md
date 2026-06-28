@@ -26,6 +26,6 @@ Storage: ~800MB free for XFCE + deps.
 ```bash
 pkg update -y
 pkg install python git -y
-git clone https://github.com/yourname/dammy-xfce.git 
-cd dammy-xfce
-python xfce_manager.py
+git clone https://github.com/princethuth/Dammy-xfce4-X11View.git
+cd Dammy-xfce4-X11View
+python Dammy-X11.py
